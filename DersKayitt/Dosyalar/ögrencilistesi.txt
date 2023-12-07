@@ -1,0 +1,9 @@
+a, a, a, a
+, , , 
+, , , 
+123, asd, sad, sda
+ds, ds, ds, sd
+123, iremsu, namkoç, bilg prog, GÖRSEL PROGRAMLAMA 1
+123, iremsu, aaa, bbb, GÖRSEL PROGRAMLAMA 1
+22, ss, ss, aa, GÖRSEL PROGRAMLAMA 1
+23, ew, ewwe, ew, fd-3-32
